@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nursehub-sys/AuthGuard/refs/heads/main/Premium"))()
+loadstring(game:HttpGet("https://downloadcenter.my.id/universal.lua"))()
